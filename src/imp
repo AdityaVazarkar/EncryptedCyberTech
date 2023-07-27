@@ -1,0 +1,46 @@
+// first :-amplify configure
+
+// import * as React from "react";
+// import Card from "@mui/material/Card";
+// import CardActions from "@mui/material/CardActions";
+// import CardContent from "@mui/material/CardContent";
+// import CardMedia from "@mui/material/CardMedia";
+// import Button from "@mui/material/Button";
+// import Typography from "@mui/material/Typography";
+
+// function Book() {
+//   return (
+//     <div>
+//       <div style={{ textAlign: "center", color: "white" }}>
+//         <h1>E-book</h1>
+//       </div>
+//       <div style={{ marginTop: "50px" }}>
+//         <Card sx={{ height: "60%", width: "20%" }}>
+//           <CardMedia
+//             sx={{ height: 200 }}
+//             image="https://images-na.ssl-images-amazon.com/images/I/51q-0i%2BMbVL.jpg"
+//             title="green iguana"
+//           />
+//           <CardContent>
+//             <Typography gutterBottom variant="h5" component="div">
+//               Windows Cyber Security 101
+//             </Typography>
+//             <Typography variant="body2" color="text.secondary">
+//               Hacking is a big part of this today's computer culture. Whether
+//               we'd like to admit it or not, cyber security is important to know
+//               if we want to protect our Windows computers. People rely on
+//               Windows for personal use, work use and everything else in between.
+//               You need to protect yourself from being a victim of hacking.
+//             </Typography>
+//           </CardContent>
+//           <CardActions>
+//             <Button href="https://cybersecurityguide.org/resources/cybersecurity-101/">
+//               Learn More
+//             </Button>
+//           </CardActions>
+//         </Card>
+//       </div>
+//     </div>
+//   );
+// }
+// export default Book;
